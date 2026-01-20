@@ -58,7 +58,7 @@ The website includes the following key sections:
 
 ## Live Portfolio Website
 
-🔗 **Live Demo:** *(Add your portfolio website URL here)*
+🔗 **Live Demo:** *https://osamakhanmarwat.github.io/Osama-Data-Analytics-Portfolio/*
 
 The live website provides direct access to project descriptions, screenshots, and interactive dashboard links where applicable.
 
@@ -67,7 +67,7 @@ The live website provides direct access to project descriptions, screenshots, an
 
 📧 **Email:** *osamamwt865@gmail.com*
 💼 **LinkedIn:** *https://www.linkedin.com/in/osama-khan-2k1/*
-🌐 **Portfolio Website:** **
+🌐 **Portfolio Website:** *https://osamakhanmarwat.github.io/Osama-Data-Analytics-Portfolio/*
 
 
 
